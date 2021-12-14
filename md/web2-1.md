@@ -35,7 +35,7 @@ Dribbbleはデザインのコンセプトを集めるサイトです。自分は
 
 - ボタン
 
-  ![image-20211214201314291](/Users/koorimizuw/Documents/work/web-template-test/md/image-20211214201314291.png)
+  ![image-20211214201314291](/md/image-20211214201314291.png)
 
   トップナビケーションの全てのボタンは一貫のデザインしていて、マウスオーバーの効果もあります。
 
@@ -45,7 +45,7 @@ Dribbbleはデザインのコンセプトを集めるサイトです。自分は
 
 - 文字色
 
-  ![image-20211214213422306](/Users/koorimizuw/Documents/work/web-template-test/md/image-20211214213422306.png)
+  ![image-20211214213422306](/md/image-20211214213422306.png)
 
   文字が選択されたときの色は他の色と合わせています。
 
@@ -53,7 +53,7 @@ Dribbbleはデザインのコンセプトを集めるサイトです。自分は
 
 - キーボード
 
-  ![image-20211214214925081](/Users/koorimizuw/Documents/work/web-template-test/md/image-20211214214925081.png)
+  ![image-20211214214925081](/md/image-20211214214925081.png)
 
   キーボード操作でページの移動と、コンテンツを見ることができます。
 
